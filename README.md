@@ -47,23 +47,24 @@ Other key pages:
 - `profile.php`: user profile and account actions
 - `orderHistory.php`: user order history
 
-## User Features
+## Client / User Features
 
-- Browse all products with live search
-- Advanced filters by brand, category, color, type, and price range
-- Add product to cart or buy immediately
-- Checkout with cart contents and payment capture
-- Order creation, order item tracking, order history
-- User authentication and profile support
-- Contact information page
+- Product browsing with instant search and modern storefront layout
+- Advanced filtering by brand, category, color, type, and price range
+- Add items to cart or use buy-now for a single-product purchase
+- Checkout workflow with PayHere payment integration
+- Persistent order history and order item tracking for users
+- User authentication, profile access, and session-based user flows
+- Contact page with map, agency details, and message submission form
 
 ## Admin Features
 
-- Secure admin login
-- Dashboard analytics: daily income, hourly income, best-selling products and categories
-- Product, category, brand, color, and stock management
-- User management and reporting
-- Delivery and invoice controls
+- Secure admin login and protected admin dashboard
+- Business analytics with charts for daily income, hourly income, top products, and top categories
+- Full catalog management: products, stock, categories, brands, colors, and sizes
+- Order management, delivery controls, invoice generation, and sales reports
+- User management and admin reporting tools
+- Direct backend actions via admin panels for inventory and stock updates
 
 ## Database
 
